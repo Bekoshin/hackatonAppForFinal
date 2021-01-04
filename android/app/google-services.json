@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "688350107693",
+    "firebase_url": "https://rosseti-b8d7f.firebaseio.com",
+    "project_id": "rosseti-b8d7f",
+    "storage_bucket": "rosseti-b8d7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688350107693:android:f7d6c767f4bc63176640a4",
+        "android_client_info": {
+          "package_name": "su.rocket.idea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688350107693-1orqhi2pji46ahhl0nn7ab3ldd1ub2lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxtHovSgqzGLzFKIvT6uZzS46rSCRT7sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688350107693-1orqhi2pji46ahhl0nn7ab3ldd1ub2lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
